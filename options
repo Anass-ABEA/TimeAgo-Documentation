@@ -1,0 +1,24 @@
+-classpath
+'E:/Workspaces/open_source/TimeAgo/target/classes'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'E:/Workspaces/open_source/TimeAgo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Workspaces/open_source/TimeAgo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TimeAgo 1.0.2 API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'E:/Workspaces/open_source/TimeAgo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'TimeAgo 1.0.2 API'

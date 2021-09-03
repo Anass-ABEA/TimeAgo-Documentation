@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"io.github.anass_abea"},{"l":"io.github.anass_abea.enumClasses"},{"l":"io.github.anass_abea.impl"},{"l":"io.github.anass_abea.interf"},{"l":"io.github.anass_abea.lang"}]
